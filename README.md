@@ -1,6 +1,6 @@
 # Ngstate
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.1.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.1 with the purpose of studying a way to implement state management with signals.
 
 ## Development server
 
